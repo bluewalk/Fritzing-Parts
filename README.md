@@ -5,4 +5,4 @@ A collection of home-made Fritzing parts
 The ESP-12 is a work in progress as for some reason Fritzing doesn't want to accept my SVG's for breadboard- and schematic view.
 
 ## DSUN-DC Adapter
-DSUN-DC Adapter with variable input/output voltages
+DSUN-DC Adapter with variable input/output voltages (from [Ebay](http://www.ebay.com/sch/i.html?_odkw=3A+DC-DC+Converter+Adjustable+Step+down+Power+Supply+Module+replace+LM2596s+FO&_from=R40&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.X3A+DC-DC+Converter+Adjustable+Step+down+LM2596s.TRS0&_nkw=3A+DC-DC+Converter+Adjustable+Step+down+LM2596s&ghostText=&_sacat=0))
