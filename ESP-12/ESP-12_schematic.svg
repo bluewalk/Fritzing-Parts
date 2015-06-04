@@ -83,7 +83,7 @@
        class="pin"
        gorn="0.4"
        style="fill:none;stroke:#787878;stroke-width:0.24109367;stroke-linecap:round"
-       id="connector2pin"
+       id="connector3pin"
        y1="12.454345"
        y2="12.454345"
        x1="20.485971"
@@ -93,22 +93,8 @@
        x="25.443584"
        y="12.454104"
        height="0.00048218734"
-       id="connector2terminal"
+       id="connector3terminal"
        style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.5"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3708"
-       font-size="0.248904"
-       transform="translate(0.03797914,-2.7947958)">
-      <text
-         x="22.867815"
-         y="14.896358"
-         gorn="0.5.0"
-         style="font-size:0.93980002px"
-         id="tspan5370">3</text>
-    </g>
     <g
        class="text"
        gorn="0.6"
@@ -127,7 +113,7 @@
        class="pin"
        gorn="0.7"
        style="fill:none;stroke:#787878;stroke-width:0.24205315;stroke-linecap:round"
-       id="connector4pin"
+       id="connector5pin"
        y1="14.986084"
        y2="14.986084"
        x1="20.48167"
@@ -137,22 +123,8 @@
        x="25.478346"
        y="14.985842"
        height="0.00048410631"
-       id="connector4terminal"
+       id="connector5terminal"
        style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.8"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3714"
-       font-size="0.248904"
-       transform="translate(0.03797914,-2.7947958)">
-      <text
-         x="22.867815"
-         y="17.428095"
-         gorn="0.8.0"
-         style="font-size:0.93980002px"
-         id="tspan5372">5</text>
-    </g>
     <g
        class="text"
        gorn="0.9"
@@ -165,13 +137,13 @@
          y="18.133661"
          gorn="0.9.0"
          style="font-size:1.31797779px"
-         id="tspan5364">GPIO_2</text>
+         id="tspan5364">GPIO_1</text>
     </g>
     <line
        class="pin"
        gorn="0.10"
        style="fill:none;stroke:#787878;stroke-width:0.24286222;stroke-linecap:round"
-       id="connector3pin"
+       id="connector4pin"
        y1="17.529303"
        y2="17.529303"
        x1="20.483458"
@@ -181,22 +153,8 @@
        x="25.513186"
        y="17.52906"
        height="0.00048572445"
-       id="connector3terminal"
+       id="connector4terminal"
        style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.11"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3720"
-       font-size="0.248904"
-       transform="translate(0.03797914,-2.7947958)">
-      <text
-         x="22.867815"
-         y="19.953732"
-         gorn="0.11.0"
-         style="font-size:0.93980002px"
-         id="tspan3276">4</text>
-    </g>
     <g
        class="text"
        gorn="0.12"
@@ -224,7 +182,7 @@
        class="pin"
        gorn="0.14"
        style="fill:none;stroke:#787878;stroke-width:0.24643241;stroke-linecap:round"
-       id="connector7pin"
+       id="connector8pin"
        y1="6.2495284"
        y2="6.2495284"
        x1="0.1521209"
@@ -234,22 +192,8 @@
        x="0.023599461"
        y="6.2492824"
        height="0.00049286481"
-       id="connector7terminal"
+       id="connector8terminal"
        style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.15"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3726"
-       font-size="0.248904"
-       transform="translate(0.03797914,-3.9236846)">
-      <text
-         x="2.6105542"
-         y="9.7408409"
-         gorn="0.15.0"
-         style="font-size:0.93980002px"
-         id="tspan5451">8</text>
-    </g>
     <g
        class="text"
        gorn="0.16"
@@ -277,7 +221,7 @@
        class="pin"
        gorn="0.18"
        style="fill:none;stroke:#787878;stroke-width:0.2458171;stroke-linecap:round"
-       id="connector0pin"
+       id="connector17pin"
        y1="8.7802906"
        y2="8.7802906"
        x1="0.15150769"
@@ -287,22 +231,8 @@
        x="0.023319557"
        y="8.7800436"
        height="0.00049163419"
-       id="connector0terminal"
+       id="connector17terminal"
        style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.19"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3732"
-       font-size="0.248904"
-       transform="translate(0.03797914,-3.9236846)">
-      <text
-         x="2.6105542"
-         y="12.274044"
-         gorn="0.19.0"
-         style="font-size:0.93980002px"
-         id="tspan5449">1</text>
-    </g>
     <g
        class="text"
        gorn="0.20"
@@ -330,7 +260,7 @@
        class="pin"
        gorn="0.22"
        style="fill:none;stroke:#787878;stroke-width:0.24081822;stroke-linecap:round"
-       id="connector6pin"
+       id="connector7pin"
        y1="25.546499"
        y2="30.37755"
        x1="12.759983"
@@ -342,50 +272,7 @@
        y="30.492887"
        class="terminal"
        height="0.010143738"
-       id="connector6terminal" />
-    <g
-       transform="translate(12.379787,27.831426)"
-       id="g10675">
-      <g
-         id="g10677">
-        <g
-           gorn="0.23.0.0"
-           id="g3738">
-          <g
-             gorn="0.23.0.0.0"
-             id="g3740">
-            <g
-               transform="matrix(0,-1,1,0,0,0)"
-               id="g10681">
-              <g
-                 id="g10683">
-                <g
-                   gorn="0.23.0.0.0.0.0.0"
-                   id="g3742">
-                  <g
-                     gorn="0.23.0.0.0.0.0.0.0"
-                     id="g3744">
-                    <g
-                       class="text"
-                       gorn="0.23.0.0.0.0.0.0.0.0"
-                       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-                       id="text3746"
-                       font-size="0.248904">
-                      <text
-                         x="0"
-                         y="0"
-                         gorn="0.23.0.0.0.0.0.0.0.0.0"
-                         style="font-size:0.93980002px"
-                         id="tspan5447">7</text>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
+       id="connector7terminal" />
     <g
        transform="translate(13.230733,24.797526)"
        id="g10689">
@@ -433,7 +320,7 @@
        class="pin"
        gorn="0.26"
        style="fill:none;stroke:#787878;stroke-width:0.24172944;stroke-linecap:round"
-       id="connector1pin"
+       id="connector18pin"
        y1="0.14570183"
        y2="5.0133777"
        x1="12.740195"
@@ -444,50 +331,7 @@
        x="12.739953"
        y="0.019727645"
        height="0.01021881"
-       id="connector1terminal" />
-    <g
-       transform="translate(12.364341,2.6203426)"
-       id="g10705">
-      <g
-         id="g10707">
-        <g
-           gorn="0.27.0.0"
-           id="g3760">
-          <g
-             gorn="0.27.0.0.0"
-             id="g3762">
-            <g
-               transform="matrix(0,-1,1,0,0,0)"
-               id="g10711">
-              <g
-                 id="g10713">
-                <g
-                   gorn="0.27.0.0.0.0.0.0"
-                   id="g3764">
-                  <g
-                     gorn="0.27.0.0.0.0.0.0.0"
-                     id="g3766">
-                    <g
-                       class="text"
-                       gorn="0.27.0.0.0.0.0.0.0.0"
-                       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-                       id="text3768"
-                       font-size="0.248904">
-                      <text
-                         x="0"
-                         y="0"
-                         gorn="0.27.0.0.0.0.0.0.0.0.0"
-                         style="font-size:0.93980002px"
-                         id="tspan5453">2</text>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
+       id="connector18terminal" />
     <g
        transform="translate(13.210947,5.7248423)"
        id="g10719">
@@ -544,7 +388,7 @@
        class="pin"
        gorn="0.33"
        style="fill:none;stroke:#787878;stroke-width:0.24109206;stroke-linecap:round"
-       id="connector5pin"
+       id="connector6pin"
        y1="10.19356"
        y2="10.19356"
        x1="25.321369"
@@ -555,21 +399,7 @@
        x="25.436832"
        y="10.193319"
        height="0.00048218411"
-       id="connector5terminal" />
-    <g
-       transform="translate(0.03797914,0.02742628)"
-       class="text"
-       gorn="0.34"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3726-8"
-       font-size="0.248904">
-      <text
-         x="22.790646"
-         y="9.8126183"
-         gorn="0.34.0"
-         style="font-size:0.93980002px"
-         id="tspan5368">6</text>
-    </g>
+       id="connector6terminal" />
     <g
        transform="translate(0.03797914,0.02742628)"
        class="text"
@@ -589,26 +419,12 @@
        class="pin"
        gorn="0.33"
        style="fill:none;stroke:#787878;stroke-width:0.24109206;stroke-linecap:round"
-       id="connector17pin"
+       id="connector9pin"
        y1="7.9279141"
        y2="7.9279141"
        x1="25.295679"
        x2="20.453604"
        inkscape:label="#connector5pin-6" />
-    <g
-       transform="translate(0.01229004,-2.2382206)"
-       class="text"
-       gorn="0.34"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3726-8-6"
-       font-size="0.248904">
-      <text
-         x="22.790646"
-         y="9.8126183"
-         gorn="0.34.0"
-         style="font-size:0.93980002px"
-         id="tspan5368-9">8</text>
-    </g>
     <g
        transform="translate(0.01229004,-2.2382206)"
        class="text"
@@ -628,33 +444,12 @@
        class="pin"
        gorn="0.10"
        style="fill:none;stroke:#787878;stroke-width:0.24286222;stroke-linecap:round"
-       id="connector18pin"
+       id="connector10pin"
        y1="19.919195"
        y2="19.919195"
        x1="20.473722"
        x2="25.387175"
        inkscape:label="#connector3pin-1" />
-    <rect
-       width="0.010312631"
-       x="25.50345"
-       y="19.918955"
-       height="0.00048572445"
-       id="connector3terminal-3"
-       style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.11"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3720-3"
-       font-size="0.248904"
-       transform="translate(0.02823654,-0.40490252)">
-      <text
-         x="22.867815"
-         y="19.953732"
-         gorn="0.11.0"
-         style="font-size:0.93980002px"
-         id="tspan3276-8">9</text>
-    </g>
     <g
        class="text"
        gorn="0.12"
@@ -682,33 +477,12 @@
        class="pin"
        gorn="0.10"
        style="fill:none;stroke:#787878;stroke-width:0.24286222;stroke-linecap:round"
-       id="connector18pin-6"
+       id="connector11pin"
        y1="22.289064"
        y2="22.289064"
        x1="20.487387"
        x2="25.400841"
        inkscape:label="#connector3pin-1" />
-    <rect
-       width="0.010312631"
-       x="25.517117"
-       y="22.28882"
-       height="0.00048572445"
-       id="connector3terminal-3-3"
-       style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.11"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3720-3-2"
-       font-size="0.248904"
-       transform="translate(0.04190184,1.9649671)">
-      <text
-         x="22.867815"
-         y="19.953732"
-         gorn="0.11.0"
-         style="font-size:0.93980002px"
-         id="tspan3276-8-7">10</text>
-    </g>
     <g
        class="text"
        gorn="0.12"
@@ -745,33 +519,12 @@
        class="pin"
        gorn="0.18"
        style="fill:none;stroke:#787878;stroke-width:0.2458171;stroke-linecap:round"
-       id="connector20pin"
+       id="connector12pin"
        y1="11.344735"
        y2="11.344735"
        x1="0.15150769"
        x2="5.1852479"
        inkscape:label="#connector0pin-9" />
-    <rect
-       width="0.010559115"
-       x="0.023319557"
-       y="11.344488"
-       height="0.00049163419"
-       id="connector0terminal-1"
-       style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.19"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3732-7"
-       font-size="0.248904"
-       transform="translate(0.03797914,-1.3592406)">
-      <text
-         x="2.6105542"
-         y="12.274044"
-         gorn="0.19.0"
-         style="font-size:0.93980002px"
-         id="tspan5449-1">11</text>
-    </g>
     <g
        class="text"
        gorn="0.20"
@@ -799,33 +552,12 @@
        class="pin"
        gorn="0.18"
        style="fill:none;stroke:#787878;stroke-width:0.2458171;stroke-linecap:round"
-       id="connector21pin"
+       id="connector13pin"
        y1="13.90918"
        y2="13.90918"
        x1="0.15150769"
        x2="5.1852479"
        inkscape:label="#connector0pin-9" />
-    <rect
-       width="0.010559115"
-       x="0.023319557"
-       y="13.908933"
-       height="0.00049163419"
-       id="connector0terminal-1-8"
-       style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.19"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3732-7-0"
-       font-size="0.248904"
-       transform="translate(0.03797914,1.2052041)">
-      <text
-         x="2.6105542"
-         y="12.274044"
-         gorn="0.19.0"
-         style="font-size:0.93980002px"
-         id="tspan5449-1-6">12</text>
-    </g>
     <g
        class="text"
        gorn="0.20"
@@ -838,7 +570,7 @@
          y="13.067745"
          gorn="0.20.0"
          style="font-size:1.31797779px"
-         id="tspan5354-2-2">GPIO_5</text>
+         id="tspan5354-2-2">GPIO_4</text>
     </g>
     <rect
        width="0.246944"
@@ -853,33 +585,12 @@
        class="pin"
        gorn="0.18"
        style="fill:none;stroke:#787878;stroke-width:0.2458171;stroke-linecap:round"
-       id="connector22pin"
+       id="connector14pin"
        y1="16.344738"
        y2="16.344738"
        x1="0.14340957"
        x2="5.1771502"
        inkscape:label="#connector0pin-9" />
-    <rect
-       width="0.010559115"
-       x="0.015221431"
-       y="16.34449"
-       height="0.00049163419"
-       id="connector0terminal-1-8-1"
-       style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.19"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3732-7-0-0"
-       font-size="0.248904"
-       transform="translate(0.02988104,3.6407597)">
-      <text
-         x="2.6105542"
-         y="12.274044"
-         gorn="0.19.0"
-         style="font-size:0.93980002px"
-         id="tspan5449-1-6-4">13</text>
-    </g>
     <g
        class="text"
        gorn="0.20"
@@ -892,7 +603,7 @@
          y="13.067745"
          gorn="0.20.0"
          style="font-size:1.31797779px"
-         id="tspan5354-2-2-8">GPIO_4</text>
+         id="tspan5354-2-2-8">GPIO_5</text>
     </g>
     <rect
        width="0.246944"
@@ -907,33 +618,12 @@
        class="pin"
        gorn="0.18"
        style="fill:none;stroke:#787878;stroke-width:0.2458171;stroke-linecap:round"
-       id="connector23pin"
+       id="connector15pin"
        y1="18.560081"
        y2="18.560081"
        x1="0.18097384"
        x2="5.2147145"
        inkscape:label="#connector0pin-9" />
-    <rect
-       width="0.010559115"
-       x="0.05278571"
-       y="18.559834"
-       height="0.00049163419"
-       id="connector0terminal-1-8-1-9"
-       style="fill:none;stroke:none;stroke-width:0" />
-    <g
-       class="text"
-       gorn="0.19"
-       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-       id="text3732-7-0-0-5"
-       font-size="0.248904"
-       transform="translate(0.06744524,5.8561016)">
-      <text
-         x="2.6105542"
-         y="12.274044"
-         gorn="0.19.0"
-         style="font-size:0.93980002px"
-         id="tspan5449-1-6-4-1">14</text>
-    </g>
     <g
        class="text"
        gorn="0.20"
@@ -952,63 +642,12 @@
        class="pin"
        gorn="0.22"
        style="fill:none;stroke:#787878;stroke-width:0.24081822;stroke-linecap:round"
-       id="connector24pin"
+       id="connector16pin"
        y1="25.567268"
        y2="30.398314"
        x1="9.2444267"
        x2="9.2444267"
        inkscape:label="#connector6pin-8" />
-    <rect
-       style="fill:none;stroke:none;stroke-width:0"
-       width="0.00048163644"
-       x="9.2441854"
-       y="30.513651"
-       class="terminal"
-       height="0.010143738"
-       id="connector6terminal-5" />
-    <g
-       transform="translate(8.8642339,27.852195)"
-       id="g10675-0">
-      <g
-         id="g10677-0">
-        <g
-           gorn="0.23.0.0"
-           id="g3738-0">
-          <g
-             gorn="0.23.0.0.0"
-             id="g3740-4">
-            <g
-               transform="matrix(0,-1,1,0,0,0)"
-               id="g10681-4">
-              <g
-                 id="g10683-9">
-                <g
-                   gorn="0.23.0.0.0.0.0.0"
-                   id="g3742-9">
-                  <g
-                     gorn="0.23.0.0.0.0.0.0.0"
-                     id="g3744-1">
-                    <g
-                       class="text"
-                       gorn="0.23.0.0.0.0.0.0.0.0"
-                       style="font-size:0.248904px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none"
-                       id="text3746-2"
-                       font-size="0.248904">
-                      <text
-                         x="0"
-                         y="0"
-                         gorn="0.23.0.0.0.0.0.0.0.0.0"
-                         style="font-size:0.93980002px"
-                         id="tspan5447-5">15</text>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
     <g
        transform="translate(9.7151807,24.818294)"
        id="g10689-2">

@@ -77,7 +77,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866146"
-       id="connector1pin"
+       id="connector18pin"
        style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -85,7 +85,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866146"
-       id="connector20pin"
+       id="connector12pin"
        style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -93,7 +93,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866151"
-       id="connector19pin"
+       id="connector11pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -101,7 +101,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866156"
-       id="connector18pin"
+       id="connector10pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -109,7 +109,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.086616"
-       id="connector3pin"
+       id="connector4pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -117,7 +117,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866146"
-       id="connector5pin"
+       id="connector6pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -125,7 +125,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866146"
-       id="connector17pin"
+       id="connector9pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -133,7 +133,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866151"
-       id="connector24pin"
+       id="connector16pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -141,7 +141,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866132"
-       id="connector6pin"
+       id="connector7pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -149,7 +149,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866132"
-       id="connector23pin"
+       id="connector15pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -157,7 +157,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866137"
-       id="connector4pin"
+       id="connector5pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -165,7 +165,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866141"
-       id="connector2pin"
+       id="connector3pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -173,7 +173,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866146"
-       id="connector22pin"
+       id="connector14pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -181,7 +181,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866132"
-       id="connector21pin"
+       id="connector13pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -189,7 +189,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866132"
-       id="connector0pin"
+       id="connector17pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -197,7 +197,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866137"
-       id="connector7pin"
+       id="connector8pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
   </g>
