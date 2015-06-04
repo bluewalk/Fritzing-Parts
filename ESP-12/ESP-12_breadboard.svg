@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,37 +7,17 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg8187"
+   x="0"
+   y="0"
    width="19mm"
    height="25mm"
    viewBox="0 0 67.322835 88.582677"
-   id="svg8187"
-   version="1.1"
+   nable-background="new 0 0 21.969 21.969"
+   xml:space="preserve"
    inkscape:version="0.91 r13725"
    sodipodi:docname="ESP-12_breadboard.svg">
-  <defs
-     id="defs8189" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="1.5639231"
-     inkscape:cy="40.642099"
-     inkscape:document-units="mm"
-     inkscape:current-layer="silkscreen"
-     showgrid="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="988"
-     inkscape:window-x="1672"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid8197" />
-  </sodipodi:namedview>
   <metadata
      id="metadata8192">
     <rdf:RDF>
@@ -169,7 +147,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866146"
-       id="connector1pin"
+       id="connector18pin"
        style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -177,7 +155,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866146"
-       id="connector20pin"
+       id="connector12pin"
        style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -185,7 +163,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866151"
-       id="connector19pin"
+       id="connector11pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -193,7 +171,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866156"
-       id="connector18pin"
+       id="connector10pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -201,7 +179,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.086616"
-       id="connector3pin"
+       id="connector4pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -209,7 +187,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866146"
-       id="connector5pin"
+       id="connector6pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -217,7 +195,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866146"
-       id="connector17pin"
+       id="connector9pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -225,7 +203,7 @@
        x="1.7716535"
        height="3.5433071"
        width="7.0866151"
-       id="connector24pin"
+       id="connector16pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -233,7 +211,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866132"
-       id="connector6pin"
+       id="connector7pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -241,7 +219,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866132"
-       id="connector23pin"
+       id="connector15pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -249,7 +227,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866137"
-       id="connector4pin"
+       id="connector5pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -257,7 +235,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866141"
-       id="connector2pin"
+       id="connector3pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -265,7 +243,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866146"
-       id="connector22pin"
+       id="connector14pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -273,7 +251,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866132"
-       id="connector21pin"
+       id="connector13pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -281,7 +259,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866132"
-       id="connector0pin"
+       id="connector17pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
     <rect
@@ -289,7 +267,7 @@
        x="58.464569"
        height="3.5433071"
        width="7.0866137"
-       id="connector7pin"
+       id="connector8pin"
        style="display:inline;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none"
        inkscape:label="" />
   </g>
