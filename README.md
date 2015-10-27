@@ -1,6 +1,10 @@
 # Fritzing-Parts
 A collection of home-made Fritzing parts
 
+## ESP-01
+The ESP-01 board based on Espressif esp8266 chip
+Shameless copy from somewhere on the internet.
+
 ## ESP-12
 The ESP-12 board based on Espressif esp8266 chip
 
