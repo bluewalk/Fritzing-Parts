@@ -14,3 +14,6 @@ DSUN-DC Adapter with variable input/output voltages (from [Ebay](http://www.ebay
 ## SRD-5VDC-SL-C
 Part for the Songle SRD-5VDC-SL-C relay, courtesy of https://code.google.com/p/fritzing/issues/detail?id=2389
 Fixed incorrect pin names
+
+## HLK-PM01
+Part for the HLK-PM01 AC-5V converter, courtesy of http://forum.fritzing.org/t/wrong-hlk-pm1-part/2600
